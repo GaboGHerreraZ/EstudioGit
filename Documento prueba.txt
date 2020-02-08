@@ -1,4 +1,6 @@
 Hola mundo
 
 Se crea este archivo de prueba para aprender sobre
-el versionamiento de archivos planos. XD
+el versionamiento de archivos planos.
+
+Gabriel nació en colombia
